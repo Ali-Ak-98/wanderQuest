@@ -63,7 +63,7 @@ export default function Home() {
                         Tokyo
                     </button>
                 </Link>
-                <Link href="/cities/New york city">
+                <Link href="/cities/New York City">
                     <button
                         className="md:p-4 p-2 border border-gray-400 text-white rounded-lg hover:border-2 hover:border-gray-100 transition-all duration-300 ease-in-out">
                         New York City
