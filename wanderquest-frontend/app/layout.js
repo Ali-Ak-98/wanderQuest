@@ -15,6 +15,7 @@ export default function RootLayout({children}) {
         <MyContextProvider>
             <html lang="en">
             <head>
+                <title>Wander Quest</title>
                 <link rel="preconnect" href="https://fonts.googleapis.com"/>
                 <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin/>
                 <link
